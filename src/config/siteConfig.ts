@@ -51,10 +51,19 @@ export const siteConfig: SiteConfig = {
 	site_url: "https://gsxbxsg.github.io",
 
 	// 站点描述
-	description: "一个基于 Astro + Firefly 的简单博客，记录学习笔记、技术折腾与生活随笔。",
+	description:
+		"一个基于 Astro + Firefly 的简单博客，记录学习笔记、技术折腾与生活随笔。",
 
 	// 站点关键词
-	keywords: ["ELEC", "博客", "技术博客", "Astro", "Firefly", "HTML", "Markdown"],
+	keywords: [
+		"ELEC",
+		"博客",
+		"技术博客",
+		"Astro",
+		"Firefly",
+		"HTML",
+		"Markdown",
+	],
 
 	// 主题色
 	themeColor: {
