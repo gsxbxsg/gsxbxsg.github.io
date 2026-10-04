@@ -123,7 +123,9 @@ $$
 
 <details>
 <summary>📝 小练习：用泰勒展开验证上面的结果（点击查看答案）</summary>
-<p>由上面的展开式，$\tan x-\sin x=\left(\frac{1}{3}+\frac{1}{6}\right)x^3+o(x^3)=\frac{1}{2}x^3+o(x^3)$，所以极限为 $\frac{1}{2}$，与等价替换的结果一致。</p>
+
+由上面的展开式，$\tan x-\sin x=\left(\frac{1}{3}+\frac{1}{6}\right)x^3+o(x^3)=\frac{1}{2}x^3+o(x^3)$，所以极限为 $\frac{1}{2}$，与等价替换的结果一致。
+
 </details>
 
 ## 六、复习路线建议
